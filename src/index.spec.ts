@@ -1,4 +1,4 @@
-import { toSnakeCase, toSnakeCaseFast, toSnakeCaseKeys, toCamelCase, toCamelCaseFast, toCamelCaseKeys } from '../src';
+import { toSnakeCase, toSnakeCaseFast, toSnakeCaseKeys, toCamelCase, toCamelCaseFast, toCamelCaseKeys } from './index';
 
 describe('index', () => {
   describe('toSnakeCaseFast', () => {

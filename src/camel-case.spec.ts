@@ -1,4 +1,4 @@
-import { toSnakeCase } from '../src/camel-case';
+import { toSnakeCase } from './camel-case';
 
 describe('camel-case', () => {
   describe('toSnakeCase', () => {

@@ -1,4 +1,4 @@
-import { createCaseKeysConverter } from '../src/case-keys-converter';
+import { createCaseKeysConverter } from './case-keys-converter';
 
 describe('case-keys-converter', () => {
   describe('createCaseKeysConverter', () => {
